@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Redwood Tree Surgeons">
+  <rect width="64" height="64" rx="14" fill="#173B2D"/>
+  <path d="M32 8 20.5 26.5h6.7L16.5 43h10.9v11h9.2V43h10.9L36.8 26.5h6.7L32 8Z" fill="#F5F5EE"/>
+  <path d="M32 8v46" stroke="#A8B99A" stroke-width="1.4" stroke-linecap="round" opacity=".45"/>
+</svg>
